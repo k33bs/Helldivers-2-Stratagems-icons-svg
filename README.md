@@ -167,7 +167,7 @@ Feel free to use them in your own projects !
             <td>Grenadier Battlement</td>
         </tr>
         <tr>
-            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/k33bs/Helldivers-2-Stratagems-icons-svg/master/Bridge/TD-110%20Maelstrom.svg"><img width=55 src="https://raw.githubusercontent.com/k33bs/Helldivers-2-Stratagems-icons-svg/master/Bridge/TD-110%20Maelstrom.svg" alt="TD-110 Maelstrom" style="max-width: 100%;"></a></td>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Bridge/TD-110%20Maelstrom.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Bridge/TD-110%20Maelstrom.svg" alt="TD-110 Maelstrom" style="max-width: 100%;"></a></td>
             <td>TD-110 Maelstrom</td>
         </tr>
     </tbody>
